@@ -7,4 +7,4 @@
 - HTML,
 - CSS
 
-[Смотреть демо](https://lexryazanskiy.github.io/epic-travel/)
+[Смотреть демо](https://lexryazanskiy.github.io/EpicTravel/)
